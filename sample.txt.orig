@@ -1,4 +1,5 @@
 test file
+<<<<<<< HEAD
 12312313123123123123123
 12312313123123123123123
 12312313123123123123123
@@ -12,6 +13,7 @@ test file
 12312313123123123123123
 12312313123123123123123
 12312313123123123123123
+=======
 testtttttttttttttttttttttttttt
 test file
 testtttttttttttttttttttttttttt
@@ -39,3 +41,4 @@ test file
 testtttttttttttttttttttttttttt
 test file
 testtttttttttttttttttttttttttt
+>>>>>>> 2118f2b (Test)
